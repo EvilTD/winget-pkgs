@@ -1,0 +1,9 @@
+PackageIdentifier: vrubleg.SoundKeeper
+PackageVersion: 1.3.6
+PackageLocale: en-US
+PackageName: Sound Keeper
+Publisher: Evgeny Vrublevsky
+License: MIT
+ShortDescription: Prevents SPDIF/HDMI/Bluetooth digital audio playback devices from sleeping.
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
